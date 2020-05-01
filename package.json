@@ -11,6 +11,19 @@
     "build:react-assets-dev": "webpack --watch",
     "start": "electron ."
   },
+  "build": {
+    "productName":"React Todo App",
+    "appId":"com.react-electron-todo.app",
+    "directories": {
+      "buildResources":"build",
+      "output":"dist"
+    },
+    "files": [
+      "**/*",
+      "build/**/*",
+      "node_modules/**/*"
+    ]
+  },
   "dependencies": {
     "electron": "^8.2.5",
     "electron-reload": "^1.5.0",

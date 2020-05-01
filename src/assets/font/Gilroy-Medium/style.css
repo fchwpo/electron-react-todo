@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Gilroy-Medium";
+  src: url("./fonts/Gilroy-Medium.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Gilroy-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Gilroy-Medium.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Gilroy-Medium.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Gilroy-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Gilroy-Medium.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Gilroy-Medium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

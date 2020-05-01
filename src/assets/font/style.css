@@ -1,0 +1,42 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+    font-family: "Gilroy";
+    src: url("./Gilroy-Regular/fonts/Gilroy-Regular.eot"); /* IE9 Compat Modes */
+    src: url("./Gilroy-Regular/fonts/Gilroy-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("./Gilroy-Regular/fonts/Gilroy-Regular.otf") format("opentype"), /* Open Type Font */
+      url("./Gilroy-Regular/fonts/Gilroy-Regular.svg") format("svg"), /* Legacy iOS */
+      url("./Gilroy-Regular/fonts/Gilroy-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("./Gilroy-Regular/fonts/Gilroy-Regular.woff") format("woff"), /* Modern Browsers */
+      url("./Gilroy-Regular/fonts/Gilroy-Regular.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: 300;
+    font-style: normal;
+    font-display: block;
+}
+/* font converted using font-converter.net. thank you! */
+@font-face {
+    font-family: "Gilroy";
+    src: url("./Gilroy-Medium/fonts/Gilroy-Medium.eot"); /* IE9 Compat Modes */
+    src: url("./Gilroy-Medium/fonts/Gilroy-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("./Gilroy-Medium/fonts/Gilroy-Medium.otf") format("opentype"), /* Open Type Font */
+      url("./Gilroy-Medium/fonts/Gilroy-Medium.svg") format("svg"), /* Legacy iOS */
+      url("./Gilroy-Medium/fonts/Gilroy-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("./Gilroy-Medium/fonts/Gilroy-Medium.woff") format("woff"), /* Modern Browsers */
+      url("./Gilroy-Medium/fonts/Gilroy-Medium.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+/* font converted using font-converter.net. thank you! */
+@font-face {
+    font-family: "Gilroy";
+    src: url("./Gilroy-Bold/fonts/Gilroy-Bold.eot"); /* IE9 Compat Modes */
+    src: url("./Gilroy-Bold/fonts/Gilroy-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("./Gilroy-Bold/fonts/Gilroy-Bold.otf") format("opentype"), /* Open Type Font */
+      url("./Gilroy-Bold/fonts/Gilroy-Bold.svg") format("svg"), /* Legacy iOS */
+      url("./Gilroy-Bold/fonts/Gilroy-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("./Gilroy-Bold/fonts/Gilroy-Bold.woff") format("woff"), /* Modern Browsers */
+      url("./Gilroy-Bold/fonts/Gilroy-Bold.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: 500;
+    font-style: normal;
+    font-display: block;
+  }

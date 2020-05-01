@@ -2,16 +2,18 @@
   "name": "electron-react-todo",
   "version": "1.1.1",
   "description": "Electron React Todo Boilerplate",
-  "main": "index.js",
+  "main": "./src/electron/index.js",
   "author": "Shubham Vishwakarma",
   "license": "MIT",
   "private": false,
   "scripts": {
     "build:react-assets-prod": "webpack --progress",
-    "build:react-assets-dev": "webpack --watch"
+    "build:react-assets-dev": "webpack --watch",
+    "start": "electron ."
   },
   "dependencies": {
     "electron": "^8.2.5",
+    "electron-reload": "^1.5.0",
     "electron-store": "^5.1.1",
     "file-loader": "4.2.0",
     "node-sass": "^4.14.0",

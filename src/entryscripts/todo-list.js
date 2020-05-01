@@ -6,7 +6,7 @@ const App = () => {
 	return (
 		<div style={{
 			fontFamily: 'Gilroy Medium'
-		}}>Electron Todo App</div>
+		}}>Electron Todo App !!!!!!!</div>
 	)
 }
 
